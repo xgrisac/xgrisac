@@ -1,4 +1,4 @@
-# Olá, sou o Isac Ribeiro Desenvolvedor Front-end
+# Olá, sou o Isac Ribeiro, desenvolvedor Front-end.
 
 - 💻 Atualmente atuo como Desenvolvedor Front-End
 - ​🚀 Estou estudando neste momento JavaScript, VueJS e Designer UX/UI
