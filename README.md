@@ -1,7 +1,7 @@
 # Olá, sou o Isac Ribeiro, desenvolvedor de softwares.
 
-- 💻 Atualmente atuo como Desenvolvedor de Software/Desenvolvedor Web
-- ​🚀 Estou estudando neste momento com foco total em JavaScript e NodeJS.
+- ​🚀 Possuo conhecimentos sólidos em JavaScript e NodeJS
+- 💻 Focado neste momento em Python e no aprimoramento do conhecimento em JS
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Isac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
