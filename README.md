@@ -1,7 +1,7 @@
 # Olá, sou o Isac Ribeiro, desenvolvedor de software.
 
 - ​🚀 Possuo conhecimentos sólidos em JavaScript e NodeJS
-- 💻 Focado neste momento no desenvolvimento utilizado C e Python
+- 💻 Focado neste momento no desenvolvimento utilizado C# e .NET
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Isac-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
