@@ -1,5 +1,7 @@
 # Olá, sou o Isac Ribeiro, desenvolvedor de software.
 
+
+- Graduando em Engenharia de Software 
 - ​🚀 Possuo conhecimentos sólidos em JavaScript e NodeJS
 - 💻 Focado neste momento no desenvolvimento utilizado C# e .NET
 
