@@ -1,4 +1,4 @@
-# Olá, sou o Isac Ribeiro, desenvolvedor de software.
+# Olá, sou o Isac Ribeiro, desenvolvedor FullStack
 
 
 - Graduando em Engenharia de Software 
