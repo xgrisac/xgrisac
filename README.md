@@ -37,7 +37,6 @@
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=xgrisac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-</p>
 <img 
   align="left" 
   alt="GitHub Stats" 
