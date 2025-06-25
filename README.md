@@ -2,7 +2,7 @@
 
 
 - 💻 Graduando em Engenharia de Software 
-- ​🚀 Possuo conhecimentos sólidos em JavaScript, Python e React
+- ​🚀 Possuo conhecimentos sólidos em JavaScript, e nocoes basicas em Python e React
 - 🚀 Focado neste momento no desenvolvimento .NET
 
   <div style="display: inline_block"><br>
