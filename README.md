@@ -1,7 +1,7 @@
 # Olá, sou o Isac Ribeiro, desenvolvedor .NET
 
 
-- 💻 Graduando no 4° período de Engenharia de Software
+- 💻 Graduando no 4° período em Engenharia de Software
 - ​📘 Possuo conhecimentos sólidos em JavaScript, e noções basicas em Python e React
 - 🚀 Focado neste momento no desenvolvimento .NET com C#
 
