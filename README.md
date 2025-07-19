@@ -1,9 +1,9 @@
-# Olá, sou o Isac Ribeiro, desenvolvedor FullStack
+# Olá, sou o Isac Ribeiro, desenvolvedor .NET
 
 
-- 💻 Graduando em Engenharia de Software 
-- ​🚀 Possuo conhecimentos sólidos em JavaScript, e noções basicas em Python e React
-- 🚀 Focado neste momento no desenvolvimento .NET
+- 💻 Graduando no 4° período de Engenharia de Software
+- ​📘 Possuo conhecimentos sólidos em JavaScript, e noções basicas em Python e React
+- 🚀 Focado neste momento no desenvolvimento .NET com C#
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Isac-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">  
