@@ -1,9 +1,9 @@
-# Olá, sou o Isac Ribeiro, desenvolvedor .NET
+# Olá, sou o Isac Ribeiro, desenvolvedor de Software
 
 
-- 💻 Desenvolvedor Back-end 
-- ​📘 Graduando no 4° período em Engenharia de Software
-- 🚀 Focado no desenvolvimento .NET com C#
+- 💻 Desenvolvedor Back-end focado em .NET e C#.
+- ​📘 Graduando no 4° período em Engenharia de Software.
+- 🚀 Apaixonado por tecnologia, boas praticas e desenvolvimento seguro.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Isac-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">  
