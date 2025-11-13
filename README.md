@@ -1,4 +1,4 @@
-# Olá, sou o Isac Ribeiro, desenvolvedor de Software
+# Olá, sou o Isac Ribeiro, Desenvolvedor de Software
 
 
 - 💻 Desenvolvedor Back-end focado em .NET e C#.
